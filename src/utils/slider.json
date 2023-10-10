@@ -1,0 +1,93 @@
+[
+      {
+        "name": "Luxury Villa in Beverly Hills",
+        "detail": "Spacious 5-bedroom villa with stunning views, a pool, and a private garden.",
+        "price": "5,500,000",
+        "image": "image1.jpg"
+      },
+      {
+        "name": "Downtown Penthouse Mansion",
+        "detail": "Modern penthouse with city skyline views, rooftop terrace, and 3 bedrooms.",
+        "price": "1,200,000",
+        "image": "image2.jpg"
+      },
+      {
+        "name": "Seaside Cottage in Malibu",
+        "detail": "Charming 2-bedroom cottage just steps from the beach with oceanfront views.",
+        "price": "2,800,000",
+        "image": "image3.jpg"
+      },
+      {
+        "name": "Mountain Retreat in Aspen",
+        "detail": "Rustic 4-bedroom cabin nestled in the mountains, perfect for nature lovers.",
+        "price": "3,750,000",
+        "image": "image4.jpg"
+      },
+      {
+        "name": "Modern Condo in Miami",
+        "detail": "Sleek and stylish 2-bedroom condo with a pool and fitness center.",
+        "price": "850,000",
+        "image": "image5.jpg"
+      },
+      {
+        "name": "Modern City Villa",
+        "detail": "5-bedroom Villa in a prime downtown location with city views.",
+        "price": "9,750,000",
+        "image": "image6.jpg"
+      },
+      {
+        "name": "Luxury Beachfront Villa",
+        "detail": "Elegant 5-bedroom villa with direct beach access and stunning ocean views.",
+        "price": "8,500,000",
+        "image": "image7.webp"
+      },
+      {
+        "name": "Downtown Penthouse",
+        "detail": "Modern 3-bedroom penthouse in the heart of the city with panoramic cityscape views.",
+        "price": "2,200,000",
+        "image": "image8.jpg"
+      },
+      {
+        "name": "Country Estate",
+        "detail": "Spacious 6-bedroom estate with a large garden, pool, and guest house.",
+        "price": "6,950,000",
+        "image": "image9.jpg"
+      },
+      {
+        "name": "Lakefront Retreat",
+        "detail": "Serene 3-bedroom lakefront property with a private dock and breathtaking views.",
+        "price": "4,200,000",
+        "image": "image10.jpg"
+      },
+      {
+        "name": "Historic Mansion",
+        "detail": "Grand 8-bedroom mansion with timeless architecture and lush gardens.",
+        "price": "10,750,000",
+        "image": "image12.jpeg"
+      },
+      {
+        "name": "Desert Oasis Villa",
+        "detail": "Majestic 4-bedroom villa in the desert with a pool oasis and mountain vistas.",
+        "price": "3,950,000",
+        "image": "image13.jpg"
+      },
+      {
+        "name": "Golf Course Estate",
+        "detail": "Elegant 7-bedroom estate overlooking a championship golf course.",
+        "price": "9,200,000",
+        "image": "image14.jpg"
+      },
+      {
+        "name": "Coastal Cottage",
+        "detail": "Quaint 2-bedroom cottage by the sea, perfect for a beach retreat.",
+        "price": "750,000",
+        "image": "image15.jpg"
+      },
+      {
+        "name": "City View Condo",
+        "detail": "Stylish 2-bedroom condo with city skyline views and modern amenities.",
+        "price": "1,650,000",
+        "image": "image16.avif"
+      }    
+    ]
+  
